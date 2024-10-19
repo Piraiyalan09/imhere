@@ -42,3 +42,11 @@ button:hover {
 #latitude, #longitude {
     color: #007bff;
 }
+
+/* Map Container */
+#map {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
